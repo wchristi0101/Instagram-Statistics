@@ -1,0 +1,7 @@
+# store_file.yaml file contents:
+
+Websites:
+
+  Instagram:
+    username : myUsername
+    password : myPassword
